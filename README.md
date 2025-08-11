@@ -1,7 +1,7 @@
 
 # Event Scheduler System
 
-A simple Flask-based REST API for scheduling, updating, deleting, and searching events. It also supports real-time reminders and keyword search functionality.Its done as a part of Code Assesment by Biz Digital IT Services Pvt. Ltd. 
+A simple Flask-based REST API for scheduling, updating, deleting, and searching events. It also supports real-time reminders and keyword search functionality.
 
 
 ## Features
